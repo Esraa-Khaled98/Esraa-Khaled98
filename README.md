@@ -3,7 +3,6 @@
 <h3 align="center">A passionate frontend developer from Egypt and Cairo University's engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-1,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esraa-khaled98&label=Profile%20views&color=0e75b6&style=flat" alt="esraa-khaled98" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esraa-khaled98" alt="esraa-khaled98" /></a> </p>
 
 - 📫 How to reach me **Engesraa98@gmail.com**
 
