@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/why_4-dbf60f160acb0c6f22c6260bd3a8c6b5.gif)](https://rishavchanda.io)
+  [![MasterHead](https://developers.giphy.com/branch/master/static/why_4-dbf60f160acb0c6f22c6260bd3a8c6b5.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Esraa Khaled</h1>
 <h3 align="center">A passionate frontend developer from Egypt and Cairo University's engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-1,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
