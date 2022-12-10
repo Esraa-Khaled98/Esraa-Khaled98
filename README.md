@@ -17,7 +17,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esraa-khaled98&show_icons=true&locale=en&layout=compact" alt="esraa-khaled98" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esraa-khaled98&show_icons=true&locale=en" alt="esraa-khaled98" /></p>
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Esraa-Khaled98&show_icons=true&count_private=true&theme=radical&include_all_commits=true" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esraa-khaled98&" alt="esraa-khaled98" /></p>
+
 
